@@ -47,9 +47,33 @@ Eh eh eh, nothing to share at the moment, I'm sorry 😝
 
 ## Find me on: 
 <p>
-  <a href="https://www.linkedin.com/in/andrea-n-259503106/">
+  <a href="https://www.linkedin.com/in/andrea-n-259503106/" target="_blank">
     <img alt="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>  
+  </a>
+  <a href="http://discordapp.com/users/286949482560749570" target="_blank">
+    <img alt="Discord" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+  <a href="" target="_blank">
+    <img alt="Battle.net" src="https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white"/>
+  </a>
+  <a href="" target="_blank">
+    <img alt="EA" src="https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white"/>
+  </a>
+  <a href="" target="_blank">
+    <img alt="Epic Games" src="https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white"/>
+  </a>
+  <a href="" target="_blank">
+    <img alt="Riot Games" src="https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white"/>
+  </a>
+  <a href="https://steamcommunity.com/id/fatsciock" target="_blank">
+    <img alt="Steam" src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white"/>
+  </a>
+  <a href="" target="_blank">
+    <img alt="Ubisoft" src="https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black"/>
+  </a>
+  <a href="" target="_blank">
+    <img alt="Unity" src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/>
+  </a>
 </p>
 
 <!--
