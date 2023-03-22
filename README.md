@@ -45,6 +45,13 @@
 
 Eh eh eh, nothing to share at the moment, I'm sorry 😝
 
+## Find me on: 
+<p>
+  <a href="[https://www.linkedin.com/in/andrea-n-259503106/]">
+    <img alt="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>  
+</p>
+
 <!--
 <div align="center">
   
