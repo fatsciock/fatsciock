@@ -2,7 +2,8 @@
 
 ## Andrea Negri 🤪
 
-[![Anurag's GitHub stats](https://github-readme-stats-fatsciock.vercel.app//api?username=fatsciock)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-fatsciock.vercel.app//api?username=fatsciock)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **fatsciock/fatsciock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
