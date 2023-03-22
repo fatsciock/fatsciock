@@ -1,4 +1,10 @@
-### Hi there 👋
+<p align="center">
+  <img alt="Welcome" src="./res/code1.webp" width="1214" />
+</p>
+
+### 🛠 WORK IN PROGRESS ⚒
+
+## Hi there 👋
 
 <!--
 **fatsciock/fatsciock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
