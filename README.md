@@ -4,7 +4,7 @@
 
 
 
-## (At the moment) Sad Stats
+## Some Stats
 
 [![Top Langs](https://github-readme-stats-fatsciock.vercel.app/api/top-langs/?username=fatsciock&hide=html,css,xslt,makefile)](https://github.com/anuraghazra/github-readme-stats)
 
