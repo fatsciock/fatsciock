@@ -6,7 +6,15 @@
 
 ## Some Stats
 
-[![Top Langs](https://github-readme-stats-fatsciock.vercel.app/api/top-langs/?username=fatsciock&hide=html,css,xslt,makefile)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  
+  [![Anurag's GitHub stats](https://github-readme-stats-fatsciock.vercel.app/api?username=fatsciock&theme=dracula&bg_color=45,0F2027,203A43,2C5364)](https://github.com/anuraghazra/github-readme-stats)
+  
+  [![Top Langs](https://github-readme-stats-fatsciock.vercel.app/api/top-langs/?username=fatsciock&hide=html,css,xslt,makefile&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+  
+</div>
+
+
 
 <!--
 **fatsciock/fatsciock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
