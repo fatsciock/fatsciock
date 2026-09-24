@@ -1,13 +1,15 @@
 # Andrea Negri 🤪
-- student of Engineering and Computer Science 👨‍💻
-- video game enthusiast (as a player but soon, I hope, as a dev) 🕹
+- Master Degree in Engineering and Computer Science 👨‍💻
+- video game enthusiast 🕹
 - Lego builder 👷‍♂️
 - guitar and bass (noob) strummer 🎸
+- drone enthusiast 🚁
 
 ## Known technologies 💾 (I worked with each of them at least one time)
 
 ### Languages
 
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -29,11 +31,23 @@
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Tauri](https://img.shields.io/badge/tauri-%2324C8D8.svg?style=for-the-badge&logo=tauri&logoColor=white)
 
 ### ML
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+
+### Computer Vision & Multimedia
+![GStreamer](https://img.shields.io/badge/gstreamer-%23FF3131.svg?style=for-the-badge&logo=gstreamer&logoColor=white)
+![DeepStream](https://img.shields.io/badge/deepstream-%2376B900.svg?style=for-the-badge&logo=nvidia&logoColor=white)
+![YOLO](https://img.shields.io/badge/yolo-%23111F68.svg?style=for-the-badge&logo=ultralytics&logoColor=white)
+
+### Tools
+![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![Codex](https://img.shields.io/badge/codex-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white)
+![Claude Code](https://img.shields.io/badge/claude%20code-%23D97757.svg?style=for-the-badge&logo=claude&logoColor=white)
 
 ### IDE
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
